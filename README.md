@@ -11,8 +11,7 @@ A jump is when a team member can move two spaces ahead to an empty space
 A walk is when a team member can mode one space ahead to an empty space.
 ## RULES:
 The Rules are simple.
-1. At each turn only one team member can walk to an empty space but within the turn team
-members can jump to an empty space.
+1. At each turn only one team member can walk to an empty space but within the turn team members can jump to an empty space.
 2. Team Members can only jump over an opponent.
 3. Team Members cannot move backwards towards their origin.
 # The GUI:
@@ -38,4 +37,4 @@ destination and select the walk icon or jump icon.
 
 ![image](https://user-images.githubusercontent.com/66528314/161365130-36b8cd9e-e963-45ff-84cf-6c5c4301ea0a.png)
 
-**Have fun get your team safely to the other side of town!!**
+**Have fun and get your team safely to the other side of town!!**
