@@ -1,9 +1,11 @@
 # Traffic Jam Game
  
  Simulation of Team Building game Traffic Jam
+ 
 Created with Java Swing - Source Code Available.
 
 **SUNNIE – DEV FEB 22-2022:**
+
 This program simulates the Traffic Jam Game - A GUI implementation
 This game is normally played in person as a team building sport where a number of people
 are divided into two teams facing each other with an empty space separating each team.
